@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikagonza25" alt="erikagonza25" /></a> </p>
 
-- 🌱 Actualmente estoy haciendo cursos **Vue, react y angular**
+- 🌱 Actualmente estoy haciendo cursos de **Vue, react y angular**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://erika-gonzalez-1.jimdosite.com/](https://erika-gonzalez-1.jimdosite.com/)
 
-- 💬 Preguntame sobre **Vue**
 
 - 📫 Como llegar a mi **erikagonza2013@gmail.com**
 
