@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy haciendo cursos de **Vue, React y Angular**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://erika-gonzalez-1.jimdosite.com/](https://erika-gonzalez-1.jimdosite.com/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-erika.vercel.app/](https://portafolio-erika.vercel.app/) 
 
 - 📫 Como llegar a mi **erikagonza2013@gmail.com**
 
